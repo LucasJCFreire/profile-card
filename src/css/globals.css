@@ -53,6 +53,7 @@ main {
     position: absolute;
     left: -288px;
     top: -504px;
+    z-index: -2;
 }
 
 .bg-bottom {
